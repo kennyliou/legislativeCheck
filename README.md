@@ -13,6 +13,7 @@ TODO LIST:
 	- Setup alert
 
 3. UI
-	- TBD
+	- Display all hearings
+	- Allow user to set hearing time on their calendar and set reminder
 
 ================
